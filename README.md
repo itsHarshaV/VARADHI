@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Varadhi (MERN) — Urban Flood Reporting
 
 Varadhi is a MERN demo app to report **urban flooding** with a **location**, a **water level** (Low/Medium/High), and an optional **photo**, and then view those reports on a live map.
@@ -56,3 +57,7 @@ Client runs on `http://localhost:3000`.
 ## Notes
 - If MongoDB is not reachable, server endpoints return `503` with a message about MongoDB not connected.
 - OSM mode uses OpenStreetMap tiles; Google mode requires enabling the `Maps JavaScript API` for your key.
+=======
+# VARADHI
+A full-stack MERN application that enables users to report water levels, upload images, and visualize real-time data on an interactive map.
+>>>>>>> 4358df6d6c56be0cbf0f194f5f22a39d7a66a6e9
